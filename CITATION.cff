@@ -17,6 +17,7 @@ version: "1.0.0"
 date-released: "2026-06-13"
 license: CC-BY-4.0
 repository-code: "https://github.com/J4c08-M/smart-study-ai"
+doi: "10.5281/zenodo.20692545"
 keywords:
   - Claude AI
   - prompt engineering

@@ -171,7 +171,7 @@ Możesz kopiować, modyfikować i udostępniać — także komercyjnie — pod w
 To repozytorium może zostać połączone z platformą **[Zenodo](https://zenodo.org)** w celu nadania mu stałego identyfikatora naukowego **DOI**, który umożliwia trwałe cytowanie w pracach akademickich.
 
 **DOI tego repozytorium:**
-`https://doi.org/10.5281/zenodo.XXXXXXX` *(zostanie zaktualizowany po pierwszym wydaniu)*
+`https://doi.org/10.5281/zenodo.20692545`
 
 > 📘 Nie wiesz jak nadać DOI? Cały proces krok po kroku opisałem w powiązanym projekcie [**open-science-starter**](https://github.com/J4c08-M/open-science-starter).
 

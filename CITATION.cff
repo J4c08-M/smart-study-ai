@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this template in your work or teaching, please cite it as below."
+type: software
+title: "Smart Study AI: Claude Prompt Template for Medical Students"
+abstract: >
+  An open-source, configurable Claude AI prompt template for medical
+  students. Designed to support structured learning, clinical reasoning,
+  and exam preparation using AI assistance with the student's own study
+  materials. The template is subject-agnostic and includes shortcut
+  commands (/flashcards, /quiz, /summary, /compare, /case, /explain,
+  /highyield).
+authors:
+  - family-names: "Matuk"
+    given-names: "Jakub"
+    affiliation: "Medical University of Bialystok, Poland"
+version: "1.0.0"
+date-released: "2026-06-13"
+license: CC-BY-4.0
+repository-code: "https://github.com/J4c08-M/smart-study-ai"
+keywords:
+  - Claude AI
+  - prompt engineering
+  - medical education
+  - medical students
+  - AI study tools
+  - flashcards
+  - clinical reasoning
+  - open education

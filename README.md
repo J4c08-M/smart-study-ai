@@ -43,6 +43,8 @@ Powstał jako inicjatywa edukacyjna — nauka korzystania z narzędzi AI w konte
 >
 > Claude jest narzędziem **wspierającym rozumienie** — nie zastępuje pracy studenta.
 
+> 📌 Pełne oświadczenie autora na temat rzetelności akademickiej znajdziesz w pliku [**DISCLAIMER.md**](./DISCLAIMER.md).
+
 ---
 
 ## 📁 Zawartość repozytorium
@@ -51,6 +53,7 @@ Powstał jako inicjatywa edukacyjna — nauka korzystania z narzędzi AI w konte
 📦 smart-study-ai/
 │
 ├── README.md                          ← Ten plik (strona główna projektu)
+├── DISCLAIMER.md                      ← Oświadczenie autora
 ├── LICENSE                            ← Licencja CC BY 4.0
 ├── CITATION.cff                       ← Plik cytowania (dla Zenodo / DOI)
 │
